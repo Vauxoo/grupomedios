@@ -1,0 +1,4 @@
+[submodule "grupomedios"]
+	path = grupomedios
+	url = git@git.vauxoo.com:vauxoo/grupomedios.git
+	branch = 18.0
